@@ -13,3 +13,4 @@
 [![website](img/linkedin-dark.svg)](https://linkedin.com/in/osamudiamenojo#gh-dark-mode-only)
 
 [![Ojo's GitHub stats](https://github-readme-stats-osamudiamen-ojos-projects.vercel.app/api?username=ojov)](https://github.com/ojov/github-readme-stats)
+<!--START_SECTION:activity-->
