@@ -12,8 +12,4 @@
 [![website](img/linkedin-light.svg)](https://linkedin.com/in/osamudiamenojo#gh-light-mode-only)
 [![website](img/linkedin-dark.svg)](https://linkedin.com/in/osamudiamenojo#gh-dark-mode-only)
 
-
-<!---
-ojov/ojov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Ojo's GitHub stats](https://github-readme-stats-osamudiamen-ojos-projects.vercel.app/api?username=ojov)](https://github.com/ojov/github-readme-stats)
