@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **victorojo007@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/0c7r6a26nmcb](https://flowcv.com/resume/0c7r6a26nmcb)
-
 - ⚡ Fun fact **I dislike noodles**
 
 <h3 align="left">Connect with me:</h3>
