@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojov" alt="ojov" /></a> </p>
 
-- 🌱 I’m currently learning **Spring AI and Kubernetes**
-
 - 💬 Ask me about **Spring Boot, Java, AI Engineering, Python AWS**
 
 - 📫 How to reach me **victorojo007@gmail.com**
