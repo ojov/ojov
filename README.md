@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring AI and Kubernetes**
 
-- 💬 Ask me about **Spring Boot, Java , AWS**
+- 💬 Ask me about **Spring Boot, Java, AI Engineering, Python AWS**
 
 - 📫 How to reach me **victorojo007@gmail.com**
 
