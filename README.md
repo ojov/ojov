@@ -1,5 +1,5 @@
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ojov/promotions-aggregator/pull/1) in [ojov/promotions-aggregator](https://github.com/ojov/promotions-aggregator)
+1. 🎉 Merged PR [#2](https://github.com/ojov/promotions-aggregator/pull/2) in [ojov/promotions-aggregator](https://github.com/ojov/promotions-aggregator)
 <!--END_SECTION:activity-->
 <h1 align="center">Hi 👋, I'm Ojo</h1>
 <h3 align="center">Spring Boot Developer</h3>
