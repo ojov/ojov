@@ -1,5 +1,5 @@
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/ojov/cyrus/pull/32) in [ojov/cyrus](https://github.com/ojov/cyrus)
+1. 🎉 Merged PR [#33](https://github.com/ojov/cyrus/pull/33) in [ojov/cyrus](https://github.com/ojov/cyrus)
 <!--END_SECTION:activity-->
 <h1 align="center">Hi 👋, I'm Ojo</h1>
 <h3 align="center">Spring Boot Developer</h3>
